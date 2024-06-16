@@ -1,17 +1,6 @@
-# Contributing
+# Contribution
 
 Thank you for considering contributing to this repository! Your help is greatly appreciated. Follow the guidelines below to make the contribution process smooth and effective for everyone involved.
-
-## How to Contribute
-
-### Reporting Bugs
-
-If you find a bug, please report it by opening an issue. Make sure to include the following information:
-
-- A clear and descriptive title.
-- A detailed description of the bug.
-- Steps to reproduce the issue.
-- Any relevant logs, screenshots, or other information.
 
 ### Suggesting Enhancements
 
@@ -27,7 +16,10 @@ To add a new algorithm, follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your algorithm: `git checkout -b add-new-algorithm`
-3. Implement the algorithm in the appropriate directory (e.g., `sorting`, `searching`, etc.).
+3. Implement the algorithm in the appropriate directory
+   > Algorithm Type/Algorithm Name/language-name/file_name.extension
+   > e.g
+   > Sorting/Bubble Sort/python/bubble_sort.py
 4. Add test cases for your algorithm, if applicable.
 5. Update the README.md file to include your new algorithm.
 6. Commit your changes: `git commit -m 'Add new algorithm: [algorithm name]'`
